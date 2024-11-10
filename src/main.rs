@@ -1,3 +1,5 @@
+mod rust_course;
+
 use git2::Repository;
 use std::env;
 use std::process;
